@@ -1,3 +1,6 @@
+# tic-tac-toe react js
+This project is the implementation of the tic-tac-toe react [tutorial](https://reactjs.org/tutorial/tutorial.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
